@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+
+  <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat-square&logo=JavaScript&logoColor=white"/>
+
 <!--
+배경이 더 큰 아이콘 스타일 - <img src="https://img.shields.io/badge/JavaScript-3178C6?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 **aajy/aajy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
